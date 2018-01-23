@@ -1,8 +1,3 @@
-% My Book
-% Muhar Dian
-
-This is my book!
-
 # Chapter One
 
 Chapter one is over.
